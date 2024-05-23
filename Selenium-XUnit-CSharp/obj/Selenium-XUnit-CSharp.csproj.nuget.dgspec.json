@@ -73,6 +73,10 @@
               "target": "Package",
               "version": "[125.0.6422.6000, )"
             },
+            "Xunit.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.3.0, )"
+            },
             "coverlet.collector": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -162,6 +166,10 @@
             "Selenium.WebDriver": {
               "target": "Package",
               "version": "[4.21.0, )"
+            },
+            "Xunit.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.3.0, )"
             }
           },
           "imports": [

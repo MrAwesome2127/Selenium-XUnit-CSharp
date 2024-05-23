@@ -1,5 +1,4 @@
 ﻿using Test_Framework.Driver;
-using Test_Framework.Extensions;
 
 namespace Selenium_XUnit_CSharp.Pages;
 

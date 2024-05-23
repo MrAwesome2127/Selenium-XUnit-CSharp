@@ -13,3 +13,4 @@ C:\Users\Coach\GitHub\Selenium-XUnit-CSharp\Test-Framework\obj\Debug\net8.0\Test
 C:\Users\Coach\GitHub\Selenium-XUnit-CSharp\Test-Framework\obj\Debug\net8.0\refint\Test-Framework.dll
 C:\Users\Coach\GitHub\Selenium-XUnit-CSharp\Test-Framework\obj\Debug\net8.0\Test-Framework.pdb
 C:\Users\Coach\GitHub\Selenium-XUnit-CSharp\Test-Framework\obj\Debug\net8.0\ref\Test-Framework.dll
+C:\Users\Coach\GitHub\Selenium-XUnit-CSharp\Test-Framework\obj\Debug\net8.0\Test-Framework.sourcelink.json

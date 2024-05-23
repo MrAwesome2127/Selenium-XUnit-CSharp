@@ -3,44 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC19F930-94B5-4809-B031-526D252CE996}|Selenium-XUnit-CSharp\\Selenium-XUnit-CSharp.csproj|c:\\users\\coach\\github\\selenium-xunit-csharp\\selenium-xunit-csharp\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC19F930-94B5-4809-B031-526D252CE996}|Selenium-XUnit-CSharp\\Selenium-XUnit-CSharp.csproj|solutionrelative:selenium-xunit-csharp\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC19F930-94B5-4809-B031-526D252CE996}|Selenium-XUnit-CSharp\\Selenium-XUnit-CSharp.csproj|c:\\users\\coach\\github\\selenium-xunit-csharp\\selenium-xunit-csharp\\tests\\nintendo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC19F930-94B5-4809-B031-526D252CE996}|Selenium-XUnit-CSharp\\Selenium-XUnit-CSharp.csproj|solutionrelative:selenium-xunit-csharp\\tests\\nintendo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC19F930-94B5-4809-B031-526D252CE996}|Selenium-XUnit-CSharp\\Selenium-XUnit-CSharp.csproj|c:\\users\\coach\\github\\selenium-xunit-csharp\\selenium-xunit-csharp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC19F930-94B5-4809-B031-526D252CE996}|Selenium-XUnit-CSharp\\Selenium-XUnit-CSharp.csproj|solutionrelative:selenium-xunit-csharp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{48E44E19-F8FA-4895-9767-D1AA0BE716E8}|Test-Framework\\Test-Framework.csproj|c:\\users\\coach\\github\\selenium-xunit-csharp\\test-framework\\driver\\driverfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48E44E19-F8FA-4895-9767-D1AA0BE716E8}|Test-Framework\\Test-Framework.csproj|solutionrelative:test-framework\\driver\\driverfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48E44E19-F8FA-4895-9767-D1AA0BE716E8}|Test-Framework\\Test-Framework.csproj|c:\\users\\coach\\github\\selenium-xunit-csharp\\test-framework\\driver\\driverwait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48E44E19-F8FA-4895-9767-D1AA0BE716E8}|Test-Framework\\Test-Framework.csproj|solutionrelative:test-framework\\driver\\driverwait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48E44E19-F8FA-4895-9767-D1AA0BE716E8}|Test-Framework\\Test-Framework.csproj|c:\\users\\coach\\github\\selenium-xunit-csharp\\test-framework\\driver\\idriverwait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48E44E19-F8FA-4895-9767-D1AA0BE716E8}|Test-Framework\\Test-Framework.csproj|solutionrelative:test-framework\\driver\\idriverwait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC19F930-94B5-4809-B031-526D252CE996}|Selenium-XUnit-CSharp\\Selenium-XUnit-CSharp.csproj|c:\\users\\coach\\github\\selenium-xunit-csharp\\selenium-xunit-csharp\\pages\\productpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC19F930-94B5-4809-B031-526D252CE996}|Selenium-XUnit-CSharp\\Selenium-XUnit-CSharp.csproj|solutionrelative:selenium-xunit-csharp\\pages\\productpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC19F930-94B5-4809-B031-526D252CE996}|Selenium-XUnit-CSharp\\Selenium-XUnit-CSharp.csproj|c:\\users\\coach\\github\\selenium-xunit-csharp\\selenium-xunit-csharp\\tests\\nintendo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC19F930-94B5-4809-B031-526D252CE996}|Selenium-XUnit-CSharp\\Selenium-XUnit-CSharp.csproj|solutionrelative:selenium-xunit-csharp\\tests\\nintendo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48E44E19-F8FA-4895-9767-D1AA0BE716E8}|Test-Framework\\Test-Framework.csproj|c:\\users\\coach\\github\\selenium-xunit-csharp\\test-framework\\driver\\idriverfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48E44E19-F8FA-4895-9767-D1AA0BE716E8}|Test-Framework\\Test-Framework.csproj|solutionrelative:test-framework\\driver\\idriverfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48E44E19-F8FA-4895-9767-D1AA0BE716E8}|Test-Framework\\Test-Framework.csproj|c:\\users\\coach\\github\\selenium-xunit-csharp\\test-framework\\config\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48E44E19-F8FA-4895-9767-D1AA0BE716E8}|Test-Framework\\Test-Framework.csproj|solutionrelative:test-framework\\config\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{48E44E19-F8FA-4895-9767-D1AA0BE716E8}|Test-Framework\\Test-Framework.csproj|c:\\users\\coach\\github\\selenium-xunit-csharp\\test-framework\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48E44E19-F8FA-4895-9767-D1AA0BE716E8}|Test-Framework\\Test-Framework.csproj|solutionrelative:test-framework\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48E44E19-F8FA-4895-9767-D1AA0BE716E8}|Test-Framework\\Test-Framework.csproj|c:\\users\\coach\\github\\selenium-xunit-csharp\\test-framework\\extensions\\webelementextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48E44E19-F8FA-4895-9767-D1AA0BE716E8}|Test-Framework\\Test-Framework.csproj|solutionrelative:test-framework\\extensions\\webelementextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC19F930-94B5-4809-B031-526D252CE996}|Selenium-XUnit-CSharp\\Selenium-XUnit-CSharp.csproj|c:\\users\\coach\\github\\selenium-xunit-csharp\\selenium-xunit-csharp\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC19F930-94B5-4809-B031-526D252CE996}|Selenium-XUnit-CSharp\\Selenium-XUnit-CSharp.csproj|solutionrelative:selenium-xunit-csharp\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E44E19-F8FA-4895-9767-D1AA0BE716E8}|Test-Framework\\Test-Framework.csproj|c:\\users\\coach\\github\\selenium-xunit-csharp\\test-framework\\test-framework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{48E44E19-F8FA-4895-9767-D1AA0BE716E8}|Test-Framework\\Test-Framework.csproj|solutionrelative:test-framework\\test-framework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,146 +34,90 @@
       "DocumentGroups": [
         {
           "DockedHeight": 325,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            }
-          ]
-        },
-        {
-          "DockedHeight": 244,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IDriverWait.cs",
-              "DocumentMoniker": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Test-Framework\\Driver\\IDriverWait.cs",
-              "RelativeDocumentMoniker": "Test-Framework\\Driver\\IDriverWait.cs",
-              "ToolTip": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Test-Framework\\Driver\\IDriverWait.cs",
-              "RelativeToolTip": "Test-Framework\\Driver\\IDriverWait.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "DocumentIndex": 4,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Selenium-XUnit-CSharp\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Selenium-XUnit-CSharp\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Selenium-XUnit-CSharp\\GlobalUsings.cs",
+              "RelativeToolTip": "Selenium-XUnit-CSharp\\GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T03:27:23.4Z",
+              "WhenOpened": "2024-05-23T14:06:15.139Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "GlobalUsings.cs",
               "DocumentMoniker": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Test-Framework\\GlobalUsings.cs",
               "RelativeDocumentMoniker": "Test-Framework\\GlobalUsings.cs",
               "ToolTip": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Test-Framework\\GlobalUsings.cs",
               "RelativeToolTip": "Test-Framework\\GlobalUsings.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T03:19:15.639Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ConfigReader.cs",
-              "DocumentMoniker": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Test-Framework\\Config\\ConfigReader.cs",
-              "RelativeDocumentMoniker": "Test-Framework\\Config\\ConfigReader.cs",
-              "ToolTip": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Test-Framework\\Config\\ConfigReader.cs",
-              "RelativeToolTip": "Test-Framework\\Config\\ConfigReader.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T03:19:08.359Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IDriverFixture.cs",
-              "DocumentMoniker": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Test-Framework\\Driver\\IDriverFixture.cs",
-              "RelativeDocumentMoniker": "Test-Framework\\Driver\\IDriverFixture.cs",
-              "ToolTip": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Test-Framework\\Driver\\IDriverFixture.cs",
-              "RelativeToolTip": "Test-Framework\\Driver\\IDriverFixture.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T03:19:01.804Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DriverFixture.cs",
-              "DocumentMoniker": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Test-Framework\\Driver\\DriverFixture.cs",
-              "RelativeDocumentMoniker": "Test-Framework\\Driver\\DriverFixture.cs",
-              "ToolTip": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Test-Framework\\Driver\\DriverFixture.cs",
-              "RelativeToolTip": "Test-Framework\\Driver\\DriverFixture.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T03:18:54.298Z",
+              "WhenOpened": "2024-05-23T14:05:57.268Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DriverWait.cs",
-              "DocumentMoniker": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Test-Framework\\Driver\\DriverWait.cs",
-              "RelativeDocumentMoniker": "Test-Framework\\Driver\\DriverWait.cs",
-              "ToolTip": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Test-Framework\\Driver\\DriverWait.cs",
-              "RelativeToolTip": "Test-Framework\\Driver\\DriverWait.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Title": "DriverFixture.cs",
+              "DocumentMoniker": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Test-Framework\\Driver\\DriverFixture.cs",
+              "RelativeDocumentMoniker": "Test-Framework\\Driver\\DriverFixture.cs",
+              "ToolTip": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Test-Framework\\Driver\\DriverFixture.cs",
+              "RelativeToolTip": "Test-Framework\\Driver\\DriverFixture.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T03:15:09.409Z",
+              "WhenOpened": "2024-05-23T14:01:08.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Selenium-XUnit-CSharp\\Startup.cs",
+              "RelativeDocumentMoniker": "Selenium-XUnit-CSharp\\Startup.cs",
+              "ToolTip": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Selenium-XUnit-CSharp\\Startup.cs",
+              "RelativeToolTip": "Selenium-XUnit-CSharp\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T13:52:53.665Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Test-Framework",
+              "DocumentMoniker": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Test-Framework\\Test-Framework.csproj",
+              "RelativeDocumentMoniker": "Test-Framework\\Test-Framework.csproj",
+              "ToolTip": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Test-Framework\\Test-Framework.csproj",
+              "RelativeToolTip": "Test-Framework\\Test-Framework.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-23T13:50:26.045Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 325,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Nintendo.cs",
               "DocumentMoniker": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Selenium-XUnit-CSharp\\Tests\\Nintendo.cs",
               "RelativeDocumentMoniker": "Selenium-XUnit-CSharp\\Tests\\Nintendo.cs",
               "ToolTip": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Selenium-XUnit-CSharp\\Tests\\Nintendo.cs",
               "RelativeToolTip": "Selenium-XUnit-CSharp\\Tests\\Nintendo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA/AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T02:08:26.83Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomePage.cs",
-              "DocumentMoniker": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Selenium-XUnit-CSharp\\Pages\\HomePage.cs",
-              "RelativeDocumentMoniker": "Selenium-XUnit-CSharp\\Pages\\HomePage.cs",
-              "ToolTip": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Selenium-XUnit-CSharp\\Pages\\HomePage.cs",
-              "RelativeToolTip": "Selenium-XUnit-CSharp\\Pages\\HomePage.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAwAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T19:04:41.684Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductPage.cs",
-              "DocumentMoniker": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Selenium-XUnit-CSharp\\Pages\\ProductPage.cs",
-              "RelativeDocumentMoniker": "Selenium-XUnit-CSharp\\Pages\\ProductPage.cs",
-              "ToolTip": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Selenium-XUnit-CSharp\\Pages\\ProductPage.cs",
-              "RelativeToolTip": "Selenium-XUnit-CSharp\\Pages\\ProductPage.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T02:12:15.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "WebElementExtension.cs",
-              "DocumentMoniker": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Test-Framework\\Extensions\\WebElementExtension.cs",
-              "RelativeDocumentMoniker": "Test-Framework\\Extensions\\WebElementExtension.cs",
-              "ToolTip": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Test-Framework\\Extensions\\WebElementExtension.cs",
-              "RelativeToolTip": "Test-Framework\\Extensions\\WebElementExtension.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T17:07:02.198Z",
+              "WhenOpened": "2024-05-23T13:58:55.897Z",
               "EditorCaption": ""
             }
           ]
