@@ -1,0 +1,15 @@
+C:\Users\Coach\GitHub\Selenium-XUnit-CSharp\Test-Framework\obj\Debug\net8.0\Test-Framework.csproj.AssemblyReference.cache
+C:\Users\Coach\GitHub\Selenium-XUnit-CSharp\Test-Framework\obj\Debug\net8.0\Test-Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coach\GitHub\Selenium-XUnit-CSharp\Test-Framework\obj\Debug\net8.0\Test-Framework.AssemblyInfoInputs.cache
+C:\Users\Coach\GitHub\Selenium-XUnit-CSharp\Test-Framework\obj\Debug\net8.0\Test-Framework.AssemblyInfo.cs
+C:\Users\Coach\GitHub\Selenium-XUnit-CSharp\Test-Framework\obj\Debug\net8.0\Test-Framework.csproj.CoreCompileInputs.cache
+C:\Users\Coach\GitHub\Selenium-XUnit-CSharp\Test-Framework\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\Users\Coach\GitHub\Selenium-XUnit-CSharp\Test-Framework\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\Users\Coach\GitHub\Selenium-XUnit-CSharp\Test-Framework\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Coach\GitHub\Selenium-XUnit-CSharp\Test-Framework\bin\Debug\net8.0\Test-Framework.deps.json
+C:\Users\Coach\GitHub\Selenium-XUnit-CSharp\Test-Framework\bin\Debug\net8.0\Test-Framework.dll
+C:\Users\Coach\GitHub\Selenium-XUnit-CSharp\Test-Framework\bin\Debug\net8.0\Test-Framework.pdb
+C:\Users\Coach\GitHub\Selenium-XUnit-CSharp\Test-Framework\obj\Debug\net8.0\Test-Framework.dll
+C:\Users\Coach\GitHub\Selenium-XUnit-CSharp\Test-Framework\obj\Debug\net8.0\refint\Test-Framework.dll
+C:\Users\Coach\GitHub\Selenium-XUnit-CSharp\Test-Framework\obj\Debug\net8.0\Test-Framework.pdb
+C:\Users\Coach\GitHub\Selenium-XUnit-CSharp\Test-Framework\obj\Debug\net8.0\ref\Test-Framework.dll
