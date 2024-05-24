@@ -1,0 +1,8 @@
+﻿CLI commands:
+
+# Specflow - Living Doc
+https://docs.specflow.org/projects/specflow-livingdoc/en/latest/
+	> Generating with test results CLI command:
+		+ Personal note: Execute CLI in Visual Studio IDE. This will put the report within the solution folder!!!
+		# Example: livingdoc test-assembly C:<FolderPath>\<Project>\bin\Debug\net7.0\MyProject.Specs.dll -t C:<FolderPath>\<Project>\bin\debug\net7.0\TestExecution.json
+		# 1. livingdoc test-assembly 'C:\Users\Coach\GitHub\Selenium-XUnit-CSharp\Selenium-XUnit-Specflow\bin\Debug\net7.0\Selenium_XUnit_Specflow.dll' -t 'C:\Users\Coach\GitHub\Selenium-XUnit-CSharp\Selenium-XUnit-Specflow\bin\Debug\net7.0\TestExecution.json'

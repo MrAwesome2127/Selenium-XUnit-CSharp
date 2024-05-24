@@ -1503,7 +1503,8 @@
         "dependencies": {
           "Selenium.Support": "4.21.0",
           "Selenium.WebDriver": "4.21.0",
-          "Xunit.DependencyInjection": "9.3.0"
+          "Xunit.DependencyInjection": "9.3.0",
+          "xunit.extensibility.core": "2.4.2"
         },
         "runtime": {
           "Test-Framework.dll": {}

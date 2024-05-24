@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Selenium-XUnit-CSharp", "Selenium-XUnit-CSharp\Selenium-XUnit-CSharp.csproj", "{FC19F930-94B5-4809-B031-526D252CE996}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test-Framework", "Test-Framework\Test-Framework.csproj", "{48E44E19-F8FA-4895-9767-D1AA0BE716E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test-Framework", "Test-Framework\Test-Framework.csproj", "{48E44E19-F8FA-4895-9767-D1AA0BE716E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selenium_XUnit_Specflow", "Selenium-XUnit-Specflow\Selenium_XUnit_Specflow.csproj", "{DC3DBCF6-FE59-4996-AED9-9C14E6C4F23E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{48E44E19-F8FA-4895-9767-D1AA0BE716E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48E44E19-F8FA-4895-9767-D1AA0BE716E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48E44E19-F8FA-4895-9767-D1AA0BE716E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC3DBCF6-FE59-4996-AED9-9C14E6C4F23E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC3DBCF6-FE59-4996-AED9-9C14E6C4F23E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC3DBCF6-FE59-4996-AED9-9C14E6C4F23E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC3DBCF6-FE59-4996-AED9-9C14E6C4F23E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

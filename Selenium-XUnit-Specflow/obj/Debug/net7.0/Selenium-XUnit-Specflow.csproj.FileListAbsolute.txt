@@ -1,0 +1,6 @@
+C:\Users\Coach\GitHub\Selenium-XUnit-CSharp\Selenium-XUnit-Specflow\obj\Debug\net7.0\Selenium-XUnit-Specflow.csproj.AssemblyReference.cache
+C:\Users\Coach\GitHub\Selenium-XUnit-CSharp\Selenium-XUnit-Specflow\obj\Debug\net7.0\Selenium-XUnit-Specflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coach\GitHub\Selenium-XUnit-CSharp\Selenium-XUnit-Specflow\obj\Debug\net7.0\Selenium-XUnit-Specflow.AssemblyInfoInputs.cache
+C:\Users\Coach\GitHub\Selenium-XUnit-CSharp\Selenium-XUnit-Specflow\obj\Debug\net7.0\Selenium-XUnit-Specflow.AssemblyInfo.cs
+C:\Users\Coach\GitHub\Selenium-XUnit-CSharp\Selenium-XUnit-Specflow\obj\Debug\net7.0\Selenium-XUnit-Specflow.csproj.CoreCompileInputs.cache
+C:\Users\Coach\GitHub\Selenium-XUnit-CSharp\Selenium-XUnit-Specflow\obj\Debug\net7.0\Selenium-XUnit-Specflow.sourcelink.json
