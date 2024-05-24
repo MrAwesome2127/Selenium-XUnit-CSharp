@@ -29,3 +29,4 @@ Scenario: Add Digital copy to cart
 	When I click Add Cart and View 
 
 	#Add to Cart Page
+	

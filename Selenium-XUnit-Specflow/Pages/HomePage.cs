@@ -19,7 +19,7 @@ public class HomePage : IHomePage
     #region Locators
     private IWebElement btnSearch => _driver.FindElement(By.CssSelector(".bLIHTE.sc-1r59ztq-3"));
     private IWebElement fldSearch => _driver.FindElement(By.XPath("//input[@placeholder=\'Search games, hardware, news, etc\']"));
-    private IWebElement imgGame => _driver.FindElement(By.CssSelector("(//div[@data-testid='card'])[1]"));
+    private IWebElement imgGame => _driver.FindElement(By.XPath("//div[@data-testid='card']"));
     private IWebElement lnkAllResults => _driver.FindElement(By.XPath("//div//button[@class='sc-1o4eb18-1 juWvlA sc-ngspk1-6 fhiCKu']"));
     #endregion
 

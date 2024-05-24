@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Selenium-XUnit-CSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01bc30be26c863ac0ef8a89316d4362d7601515a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc1c6b638878da1a08838ac4296aa4b6ae6c59db")]
 [assembly: System.Reflection.AssemblyProductAttribute("Selenium-XUnit-CSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Selenium-XUnit-CSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

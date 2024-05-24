@@ -3,4 +3,6 @@
 public interface IDriverFixture
 {
     IWebDriver Driver { get; }
+
+    string TakeScreenshotAsPath(string fileName);
 }
