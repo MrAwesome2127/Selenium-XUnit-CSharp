@@ -1,4 +1,4 @@
-﻿Feature: AddToCart
+﻿Feature: AddToCart_DigitalGame
 A short summary of the feature
 
 

@@ -2,12 +2,12 @@ using Selenium_XUnit_CSharp.Pages;
 
 namespace Selenium_XUnit_CSharp.Tests;
 
-public class Nintendo
+public class AddToCart_PhysicalGame
 {
     private readonly IHomePage _homePage;
     private readonly IProductPage _productPage;
 
-    public Nintendo(IHomePage homePage, IProductPage productPage)
+    public AddToCart_PhysicalGame(IHomePage homePage, IProductPage productPage)
     {
         _homePage = homePage;
         _productPage = productPage;

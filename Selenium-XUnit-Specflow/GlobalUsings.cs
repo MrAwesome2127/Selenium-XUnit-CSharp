@@ -1,12 +1,9 @@
 ﻿global using AventStack.ExtentReports;
 global using AventStack.ExtentReports.Gherkin.Model;
 global using AventStack.ExtentReports.Reporter;
-global using Dynamitey.DynamicObjects;
-global using FluentAssertions;
 global using Microsoft.Extensions.DependencyInjection;
 global using OpenQA.Selenium;
 global using SolidToken.SpecFlow.DependencyInjection;
 global using System.Reflection;
 global using TechTalk.SpecFlow;
 global using TechTalk.SpecFlow.Assist;
-global using Xunit;

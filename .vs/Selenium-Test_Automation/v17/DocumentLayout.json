@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC3DBCF6-FE59-4996-AED9-9C14E6C4F23E}|Selenium-XUnit-Specflow\\Selenium_XUnit_Specflow.csproj|c:\\users\\coach\\github\\selenium-xunit-csharp\\selenium-xunit-specflow\\hooks\\initialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC3DBCF6-FE59-4996-AED9-9C14E6C4F23E}|Selenium-XUnit-Specflow\\Selenium_XUnit_Specflow.csproj|solutionrelative:selenium-xunit-specflow\\hooks\\initialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48E44E19-F8FA-4895-9767-D1AA0BE716E8}|Test-Framework\\Test-Framework.csproj|c:\\users\\coach\\github\\selenium-xunit-csharp\\test-framework\\documents\\cli_cmds.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{48E44E19-F8FA-4895-9767-D1AA0BE716E8}|Test-Framework\\Test-Framework.csproj|solutionrelative:test-framework\\documents\\cli_cmds.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC3DBCF6-FE59-4996-AED9-9C14E6C4F23E}|Selenium-XUnit-Specflow\\Selenium_XUnit_Specflow.csproj|c:\\users\\coach\\github\\selenium-xunit-csharp\\selenium-xunit-specflow\\steps\\addtocartstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC3DBCF6-FE59-4996-AED9-9C14E6C4F23E}|Selenium-XUnit-Specflow\\Selenium_XUnit_Specflow.csproj|solutionrelative:selenium-xunit-specflow\\steps\\addtocartstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC3DBCF6-FE59-4996-AED9-9C14E6C4F23E}|Selenium-XUnit-Specflow\\Selenium_XUnit_Specflow.csproj|c:\\users\\coach\\github\\selenium-xunit-csharp\\selenium-xunit-specflow\\features\\addtocart_digitalgame.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DC3DBCF6-FE59-4996-AED9-9C14E6C4F23E}|Selenium-XUnit-Specflow\\Selenium_XUnit_Specflow.csproj|solutionrelative:selenium-xunit-specflow\\features\\addtocart_digitalgame.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3DBCF6-FE59-4996-AED9-9C14E6C4F23E}|Selenium-XUnit-Specflow\\Selenium_XUnit_Specflow.csproj|c:\\users\\coach\\github\\selenium-xunit-csharp\\selenium-xunit-specflow\\features\\addtocart_merchandise.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DC3DBCF6-FE59-4996-AED9-9C14E6C4F23E}|Selenium-XUnit-Specflow\\Selenium_XUnit_Specflow.csproj|solutionrelative:selenium-xunit-specflow\\features\\addtocart_merchandise.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3DBCF6-FE59-4996-AED9-9C14E6C4F23E}|Selenium-XUnit-Specflow\\Selenium_XUnit_Specflow.csproj|c:\\users\\coach\\github\\selenium-xunit-csharp\\selenium-xunit-specflow\\features\\addtocart_physicalgame.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DC3DBCF6-FE59-4996-AED9-9C14E6C4F23E}|Selenium-XUnit-Specflow\\Selenium_XUnit_Specflow.csproj|solutionrelative:selenium-xunit-specflow\\features\\addtocart_physicalgame.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC19F930-94B5-4809-B031-526D252CE996}|Selenium-XUnit-CSharp\\Selenium-XUnit-CSharp.csproj|c:\\users\\coach\\github\\selenium-xunit-csharp\\selenium-xunit-csharp\\tests\\addtocart_merchandise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC19F930-94B5-4809-B031-526D252CE996}|Selenium-XUnit-CSharp\\Selenium-XUnit-CSharp.csproj|solutionrelative:selenium-xunit-csharp\\tests\\addtocart_merchandise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC19F930-94B5-4809-B031-526D252CE996}|Selenium-XUnit-CSharp\\Selenium-XUnit-CSharp.csproj|c:\\users\\coach\\github\\selenium-xunit-csharp\\selenium-xunit-csharp\\tests\\addtocart_physicalgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC19F930-94B5-4809-B031-526D252CE996}|Selenium-XUnit-CSharp\\Selenium-XUnit-CSharp.csproj|solutionrelative:selenium-xunit-csharp\\tests\\addtocart_physicalgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC19F930-94B5-4809-B031-526D252CE996}|Selenium-XUnit-CSharp\\Selenium-XUnit-CSharp.csproj|c:\\users\\coach\\github\\selenium-xunit-csharp\\selenium-xunit-csharp\\tests\\addtocart_digitalgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC19F930-94B5-4809-B031-526D252CE996}|Selenium-XUnit-CSharp\\Selenium-XUnit-CSharp.csproj|solutionrelative:selenium-xunit-csharp\\tests\\addtocart_digitalgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC19F930-94B5-4809-B031-526D252CE996}|Selenium-XUnit-CSharp\\Selenium-XUnit-CSharp.csproj|c:\\users\\coach\\github\\selenium-xunit-csharp\\selenium-xunit-csharp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC19F930-94B5-4809-B031-526D252CE996}|Selenium-XUnit-CSharp\\Selenium-XUnit-CSharp.csproj|solutionrelative:selenium-xunit-csharp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3DBCF6-FE59-4996-AED9-9C14E6C4F23E}|Selenium-XUnit-Specflow\\Selenium_XUnit_Specflow.csproj|c:\\users\\coach\\github\\selenium-xunit-csharp\\selenium-xunit-specflow\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC3DBCF6-FE59-4996-AED9-9C14E6C4F23E}|Selenium-XUnit-Specflow\\Selenium_XUnit_Specflow.csproj|solutionrelative:selenium-xunit-specflow\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E44E19-F8FA-4895-9767-D1AA0BE716E8}|Test-Framework\\Test-Framework.csproj|c:\\users\\coach\\github\\selenium-xunit-csharp\\test-framework\\config\\testsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E44E19-F8FA-4895-9767-D1AA0BE716E8}|Test-Framework\\Test-Framework.csproj|solutionrelative:test-framework\\config\\testsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{48E44E19-F8FA-4895-9767-D1AA0BE716E8}|Test-Framework\\Test-Framework.csproj|c:\\users\\coach\\github\\selenium-xunit-csharp\\test-framework\\driver\\driverfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,14 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DC3DBCF6-FE59-4996-AED9-9C14E6C4F23E}|Selenium-XUnit-Specflow\\Selenium_XUnit_Specflow.csproj|c:\\users\\coach\\github\\selenium-xunit-csharp\\selenium-xunit-specflow\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC3DBCF6-FE59-4996-AED9-9C14E6C4F23E}|Selenium-XUnit-Specflow\\Selenium_XUnit_Specflow.csproj|solutionrelative:selenium-xunit-specflow\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC3DBCF6-FE59-4996-AED9-9C14E6C4F23E}|Selenium-XUnit-Specflow\\Selenium_XUnit_Specflow.csproj|c:\\users\\coach\\github\\selenium-xunit-csharp\\selenium-xunit-specflow\\features\\addtocart.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{DC3DBCF6-FE59-4996-AED9-9C14E6C4F23E}|Selenium-XUnit-Specflow\\Selenium_XUnit_Specflow.csproj|solutionrelative:selenium-xunit-specflow\\features\\addtocart.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48E44E19-F8FA-4895-9767-D1AA0BE716E8}|Test-Framework\\Test-Framework.csproj|c:\\users\\coach\\github\\selenium-xunit-csharp\\test-framework\\driver\\idriverfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48E44E19-F8FA-4895-9767-D1AA0BE716E8}|Test-Framework\\Test-Framework.csproj|solutionrelative:test-framework\\driver\\idriverfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +58,162 @@
       "DocumentGroups": [
         {
           "DockedHeight": 543,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IDriverFixture.cs",
-              "DocumentMoniker": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Test-Framework\\Driver\\IDriverFixture.cs",
-              "RelativeDocumentMoniker": "Test-Framework\\Driver\\IDriverFixture.cs",
-              "ToolTip": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Test-Framework\\Driver\\IDriverFixture.cs",
-              "RelativeToolTip": "Test-Framework\\Driver\\IDriverFixture.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T19:34:36.873Z",
+              "DocumentIndex": 0,
+              "Title": "CLI_Cmds.txt",
+              "DocumentMoniker": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Test-Framework\\Documents\\CLI_Cmds.txt",
+              "RelativeDocumentMoniker": "Test-Framework\\Documents\\CLI_Cmds.txt",
+              "ToolTip": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Test-Framework\\Documents\\CLI_Cmds.txt",
+              "RelativeToolTip": "Test-Framework\\Documents\\CLI_Cmds.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-29T16:03:56.447Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DriverFixture.cs",
-              "DocumentMoniker": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Test-Framework\\Driver\\DriverFixture.cs",
-              "RelativeDocumentMoniker": "Test-Framework\\Driver\\DriverFixture.cs",
-              "ToolTip": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Test-Framework\\Driver\\DriverFixture.cs",
-              "RelativeToolTip": "Test-Framework\\Driver\\DriverFixture.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T19:28:46.859Z",
+              "Title": "AddToCart_Merchandise.feature",
+              "DocumentMoniker": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Selenium-XUnit-Specflow\\Features\\AddToCart_Merchandise.feature",
+              "RelativeDocumentMoniker": "Selenium-XUnit-Specflow\\Features\\AddToCart_Merchandise.feature",
+              "ToolTip": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Selenium-XUnit-Specflow\\Features\\AddToCart_Merchandise.feature",
+              "RelativeToolTip": "Selenium-XUnit-Specflow\\Features\\AddToCart_Merchandise.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-05-29T16:03:00.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddToCart_DigitalGame.feature",
+              "DocumentMoniker": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Selenium-XUnit-Specflow\\Features\\AddToCart_DigitalGame.feature",
+              "RelativeDocumentMoniker": "Selenium-XUnit-Specflow\\Features\\AddToCart_DigitalGame.feature",
+              "ToolTip": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Selenium-XUnit-Specflow\\Features\\AddToCart_DigitalGame.feature",
+              "RelativeToolTip": "Selenium-XUnit-Specflow\\Features\\AddToCart_DigitalGame.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-05-29T16:01:36.323Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "AddToCart.feature",
-              "DocumentMoniker": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Selenium-XUnit-Specflow\\Features\\AddToCart.feature",
-              "RelativeDocumentMoniker": "Selenium-XUnit-Specflow\\Features\\AddToCart.feature",
-              "ToolTip": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Selenium-XUnit-Specflow\\Features\\AddToCart.feature",
-              "RelativeToolTip": "Selenium-XUnit-Specflow\\Features\\AddToCart.feature",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAbAAAA",
+              "Title": "AddToCart_Merchandise.cs",
+              "DocumentMoniker": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Selenium-XUnit-CSharp\\Tests\\AddToCart_Merchandise.cs",
+              "RelativeDocumentMoniker": "Selenium-XUnit-CSharp\\Tests\\AddToCart_Merchandise.cs",
+              "ToolTip": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Selenium-XUnit-CSharp\\Tests\\AddToCart_Merchandise.cs",
+              "RelativeToolTip": "Selenium-XUnit-CSharp\\Tests\\AddToCart_Merchandise.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:54:27.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddToCart_PhysicalGame.feature",
+              "DocumentMoniker": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Selenium-XUnit-Specflow\\Features\\AddToCart_PhysicalGame.feature",
+              "RelativeDocumentMoniker": "Selenium-XUnit-Specflow\\Features\\AddToCart_PhysicalGame.feature",
+              "ToolTip": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Selenium-XUnit-Specflow\\Features\\AddToCart_PhysicalGame.feature",
+              "RelativeToolTip": "Selenium-XUnit-Specflow\\Features\\AddToCart_PhysicalGame.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAeAAAA",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
               "WhenOpened": "2024-05-24T19:10:45.511Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
+              "Title": "AddToCart_DigitalGame.cs",
+              "DocumentMoniker": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Selenium-XUnit-CSharp\\Tests\\AddToCart_DigitalGame.cs",
+              "RelativeDocumentMoniker": "Selenium-XUnit-CSharp\\Tests\\AddToCart_DigitalGame.cs",
+              "ToolTip": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Selenium-XUnit-CSharp\\Tests\\AddToCart_DigitalGame.cs",
+              "RelativeToolTip": "Selenium-XUnit-CSharp\\Tests\\AddToCart_DigitalGame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:54:53.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddToCart_PhysicalGame.cs",
+              "DocumentMoniker": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Selenium-XUnit-CSharp\\Tests\\AddToCart_PhysicalGame.cs",
+              "RelativeDocumentMoniker": "Selenium-XUnit-CSharp\\Tests\\AddToCart_PhysicalGame.cs",
+              "ToolTip": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Selenium-XUnit-CSharp\\Tests\\AddToCart_PhysicalGame.cs",
+              "RelativeToolTip": "Selenium-XUnit-CSharp\\Tests\\AddToCart_PhysicalGame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:53:02.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Selenium-XUnit-CSharp\\appsettings.json",
+              "RelativeDocumentMoniker": "Selenium-XUnit-CSharp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Selenium-XUnit-CSharp\\appsettings.json",
+              "RelativeToolTip": "Selenium-XUnit-CSharp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-28T18:56:19.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Selenium-XUnit-Specflow\\appsettings.json",
+              "RelativeDocumentMoniker": "Selenium-XUnit-Specflow\\appsettings.json",
+              "ToolTip": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Selenium-XUnit-Specflow\\appsettings.json",
+              "RelativeToolTip": "Selenium-XUnit-Specflow\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-28T18:22:54.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Test-Framework\\Config\\TestSettings.cs",
+              "RelativeDocumentMoniker": "Test-Framework\\Config\\TestSettings.cs",
+              "ToolTip": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Test-Framework\\Config\\TestSettings.cs",
+              "RelativeToolTip": "Test-Framework\\Config\\TestSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T18:26:51.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DriverFixture.cs",
+              "DocumentMoniker": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Test-Framework\\Driver\\DriverFixture.cs",
+              "RelativeDocumentMoniker": "Test-Framework\\Driver\\DriverFixture.cs",
+              "ToolTip": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Test-Framework\\Driver\\DriverFixture.cs",
+              "RelativeToolTip": "Test-Framework\\Driver\\DriverFixture.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T19:28:46.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "HomePage.cs",
               "DocumentMoniker": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Selenium-XUnit-Specflow\\Pages\\HomePage.cs",
               "RelativeDocumentMoniker": "Selenium-XUnit-Specflow\\Pages\\HomePage.cs",
               "ToolTip": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Selenium-XUnit-Specflow\\Pages\\HomePage.cs",
               "RelativeToolTip": "Selenium-XUnit-Specflow\\Pages\\HomePage.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAA5wB4AAAAYAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwB4AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T18:05:40.944Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Initialization.cs",
-              "DocumentMoniker": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Selenium-XUnit-Specflow\\Hooks\\Initialization.cs",
-              "RelativeDocumentMoniker": "Selenium-XUnit-Specflow\\Hooks\\Initialization.cs",
-              "ToolTip": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Selenium-XUnit-Specflow\\Hooks\\Initialization.cs",
-              "RelativeToolTip": "Selenium-XUnit-Specflow\\Hooks\\Initialization.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAgwEQAAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T18:04:50.318Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AddToCartStepDefinitions.cs",
-              "DocumentMoniker": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Selenium-XUnit-Specflow\\Steps\\AddToCartStepDefinitions.cs",
-              "RelativeDocumentMoniker": "Selenium-XUnit-Specflow\\Steps\\AddToCartStepDefinitions.cs",
-              "ToolTip": "C:\\Users\\Coach\\GitHub\\Selenium-XUnit-CSharp\\Selenium-XUnit-Specflow\\Steps\\AddToCartStepDefinitions.cs",
-              "RelativeToolTip": "Selenium-XUnit-Specflow\\Steps\\AddToCartStepDefinitions.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAjwBoAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T18:03:03.225Z",
               "EditorCaption": ""
             }
           ]

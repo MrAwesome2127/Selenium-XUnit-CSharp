@@ -19,7 +19,7 @@ namespace Selenium_XUnit_Specflow.Features
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("TechTalk.SpecFlow", "3.9.0.0")]
     [System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    public partial class AddToCartFeature : object, Xunit.IClassFixture<AddToCartFeature.FixtureData>, System.IDisposable
+    public partial class AddToCart_DigitalGameFeature : object, Xunit.IClassFixture<AddToCart_DigitalGameFeature.FixtureData>, System.IDisposable
     {
         
         private static TechTalk.SpecFlow.ITestRunner testRunner;
@@ -28,10 +28,10 @@ namespace Selenium_XUnit_Specflow.Features
         
         private Xunit.Abstractions.ITestOutputHelper _testOutputHelper;
         
-#line 1 "AddToCart.feature"
+#line 1 "AddToCart_DigitalGame.feature"
 #line hidden
         
-        public AddToCartFeature(AddToCartFeature.FixtureData fixtureData, Selenium_XUnit_Specflow_XUnitAssemblyFixture assemblyFixture, Xunit.Abstractions.ITestOutputHelper testOutputHelper)
+        public AddToCart_DigitalGameFeature(AddToCart_DigitalGameFeature.FixtureData fixtureData, Selenium_XUnit_Specflow_XUnitAssemblyFixture assemblyFixture, Xunit.Abstractions.ITestOutputHelper testOutputHelper)
         {
             this._testOutputHelper = testOutputHelper;
             this.TestInitialize();
@@ -40,7 +40,7 @@ namespace Selenium_XUnit_Specflow.Features
         public static void FeatureSetup()
         {
             testRunner = TechTalk.SpecFlow.TestRunnerManager.GetTestRunner();
-            TechTalk.SpecFlow.FeatureInfo featureInfo = new TechTalk.SpecFlow.FeatureInfo(new System.Globalization.CultureInfo("en-US"), "Features", "AddToCart", "A short summary of the feature", ProgrammingLanguage.CSharp, ((string[])(null)));
+            TechTalk.SpecFlow.FeatureInfo featureInfo = new TechTalk.SpecFlow.FeatureInfo(new System.Globalization.CultureInfo("en-US"), "Features", "AddToCart_DigitalGame", "A short summary of the feature", ProgrammingLanguage.CSharp, ((string[])(null)));
             testRunner.OnFeatureStart(featureInfo);
         }
         
@@ -99,7 +99,7 @@ namespace Selenium_XUnit_Specflow.Features
         }
         
         [Xunit.SkippableFactAttribute(DisplayName="Add Physical copy to cart")]
-        [Xunit.TraitAttribute("FeatureTitle", "AddToCart")]
+        [Xunit.TraitAttribute("FeatureTitle", "AddToCart_DigitalGame")]
         [Xunit.TraitAttribute("Description", "Add Physical copy to cart")]
         [Xunit.TraitAttribute("Category", "AddToCart")]
         [Xunit.TraitAttribute("Category", "Smoke")]
@@ -149,7 +149,7 @@ this.FeatureBackground();
         }
         
         [Xunit.SkippableFactAttribute(DisplayName="Add Digital copy to cart")]
-        [Xunit.TraitAttribute("FeatureTitle", "AddToCart")]
+        [Xunit.TraitAttribute("FeatureTitle", "AddToCart_DigitalGame")]
         [Xunit.TraitAttribute("Description", "Add Digital copy to cart")]
         [Xunit.TraitAttribute("Category", "AddToCart")]
         [Xunit.TraitAttribute("Category", "Smoke")]
@@ -205,12 +205,12 @@ this.FeatureBackground();
             
             public FixtureData()
             {
-                AddToCartFeature.FeatureSetup();
+                AddToCart_DigitalGameFeature.FeatureSetup();
             }
             
             void System.IDisposable.Dispose()
             {
-                AddToCartFeature.FeatureTearDown();
+                AddToCart_DigitalGameFeature.FeatureTearDown();
             }
         }
     }

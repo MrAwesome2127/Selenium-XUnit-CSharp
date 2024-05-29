@@ -1,5 +1,4 @@
-﻿using OpenQA.Selenium.Support.Extensions;
-using Test_Framework.Config;
+﻿using Test_Framework.Config;
 
 namespace Test_Framework.Driver;
 
@@ -12,18 +11,29 @@ public class DriverFixture : IDriverFixture, IDisposable
     public DriverFixture(TestSettings testSettings)
     {
         _testSettings = testSettings;
-        Driver = GetDriverType(testSettings.BrowserType);
-        Driver.Navigate().GoToUrl(testSettings.ApplicationUrl);
+        Driver = _testSettings.TestRunType == TestRunType.Local ? GetWebDriver(): GetRemoteWebDriver();
+        Driver.Navigate().GoToUrl(_testSettings.ApplicationUrl);
     }
 
-    private IWebDriver GetDriverType(BrowserType browserType)
+    private IWebDriver GetWebDriver() // Local
     {
-        return browserType switch
+        return _testSettings.BrowserType switch
         {
             BrowserType.Chrome => new ChromeDriver(),
             BrowserType.Edge => new EdgeDriver(),
             BrowserType.Firefox => new FirefoxDriver(),
             _ => new ChromeDriver(),
+        };
+    }
+
+    private IWebDriver GetRemoteWebDriver() // Grid
+    {
+        return _testSettings.BrowserType switch
+        {
+            BrowserType.Chrome => new RemoteWebDriver(_testSettings.SeleniumGridUri, new ChromeOptions()),
+            BrowserType.Edge => new RemoteWebDriver(_testSettings.SeleniumGridUri, new EdgeOptions()),
+            BrowserType.Firefox => new RemoteWebDriver(_testSettings.SeleniumGridUri, new FirefoxOptions()),
+            _ => new RemoteWebDriver(_testSettings.SeleniumGridUri, new ChromeOptions()),
         };
     }
 
