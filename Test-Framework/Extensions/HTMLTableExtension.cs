@@ -1,6 +1,4 @@
 ﻿
-using System.Collections;
-
 namespace Test_Framework.Extensions;
 
 public static class HTMLTableExtension

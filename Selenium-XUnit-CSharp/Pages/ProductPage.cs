@@ -19,8 +19,8 @@ public class ProductPage : IProductPage
 
     #region Locators
     private IWebElement rdoPhysical => _driver.FindElement(By.Id("Physical-radio-2"));
-    private IWebElement btnAddToCart => _driver.FindElement(By.ClassName("sc-1rgmf3w-0 hVjtEL"));
-    private IWebElement btnViewCartandCheckout => _driver.FindElement(By.XPath("//span[contains(text(),'View cart and check out')]"));
+    private IWebElement btnAddToCart => _driver.FindElement(By.XPath("//button[@class='sc-1rgmf3w-2 cFSrMj sc-10vf2cu-9 iDEsvZ']//*[@data-testid='ShoppingCartIcon']"));
+    private IWebElement btnViewCartandCheckout => _driver.FindElement(By.XPath("//div[@class='sc-jqi7uv-0 hJPkdr']//span[@class='sc-1rgmf3w-0 hVjtEL']"));
     #endregion
 
     public void AddGame()

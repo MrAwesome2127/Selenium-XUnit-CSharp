@@ -5,6 +5,7 @@ global using OpenQA.Selenium.Firefox;
 global using OpenQA.Selenium.Remote;
 global using OpenQA.Selenium.Support.Extensions;
 global using OpenQA.Selenium.Support.UI;
+global using System.Collections;
 global using System.Reflection;
 global using System.Text.Json.Serialization;
 global using System.Text.Json;
